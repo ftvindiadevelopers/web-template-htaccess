@@ -1,0 +1,20 @@
+/* TEAM */
+Site: https://careers.ftvsalon.in/
+Company: FashionTV India
+
+Developer: Hemant Karekar
+Location: Mumbai, Maharashtra.
+
+Designer: Hemant Karekar
+Location: Mumbai, Maharashtra.
+
+/* THANKS */
+Name: Surabhi Samant
+Field: SEO Optimization
+Location: Mumbai, Maharashtra.
+
+/* SITE */
+Last update: 2021/12/14 16:29:00
+Standards: HTML5, CSS3, PHP, MySQL
+Components: jQuery, etc.
+Software: Visual Studio Code
